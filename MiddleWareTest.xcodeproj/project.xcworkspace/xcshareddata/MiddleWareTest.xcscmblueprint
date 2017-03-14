@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "12A00E277F46608817A20D4BF2260931F10BBB8D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0CA285A548270F89CFA9B796B62AE0FC18D638CB" : 9223372036854775807,
+    "12A00E277F46608817A20D4BF2260931F10BBB8D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C24B746A-C50F-40FA-ADAF-634BD736C56D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0CA285A548270F89CFA9B796B62AE0FC18D638CB" : "iphone\/mapsdk-vector\/",
+    "12A00E277F46608817A20D4BF2260931F10BBB8D" : "iphone\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MiddleWareTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MiddleWareTest\/MiddleWareTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/icode.baidu.com:8235\/baidu\/mapclient\/mapsdk-vector",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CA285A548270F89CFA9B796B62AE0FC18D638CB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/icode.baidu.com:8235\/baidu\/middleware\/iphone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "12A00E277F46608817A20D4BF2260931F10BBB8D"
+    }
+  ]
+}
